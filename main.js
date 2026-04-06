@@ -15,3 +15,13 @@
    
 // }
 // console.log(mean(12, 48));
+
+//  3-masala
+function sign(n){
+    if (n < 0) {
+        alert("-1 chiqsin");
+    } else if(n > 0) {
+         alert("1 chiqsin");
+  
+    }
+}
