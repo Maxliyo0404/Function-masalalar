@@ -9,8 +9,8 @@
  
 //  2-masala
 function mean(a, b){
-    let orta = Math.random(a, b);
-    let result = Math.pow(a, b);
-    let men = Math.sqrt(orta, result);
+    let orta = (a + b) / 2;
+    let son = Math.sqrt(a * b);
+   
 }
 console.log(mean(12, 48));
