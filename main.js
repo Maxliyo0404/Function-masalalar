@@ -80,3 +80,5 @@ function calc(A, B, S){
     return 0 ;
   }
 }
+console.log(calc(10, 15, "*"));
+console.log(calc(7, 8, "+"));
