@@ -7,4 +7,4 @@
 //  }                       
 // console.log(power(3, 5));
  
- 
+//  2-masala
