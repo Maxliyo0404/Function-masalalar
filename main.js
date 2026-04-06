@@ -52,10 +52,11 @@
 
 // 6-masala
 function sumRange(A, B) {
-    if (A > B) {
-        return("0 qiymatni qaytaradi");
-    } else {
-         return("aks holda boshqa sonni qaytaradi");
+    if ( A > B ) return 0;
+    let result = 0;
+    let i = A ;
+    if( i <= B){
+    let yigindi = += i;
     }
+    
 }
-console.log(sumRange(8, 10));
