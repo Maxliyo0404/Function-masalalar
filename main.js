@@ -84,3 +84,11 @@
 // console.log(calc(7, 8, "+"));
 
 // 8-masala
+function isEvent(K){
+    if (K % 2 === 0) {
+        alert("true");
+    } else {
+         alert("False");
+    }
+}
+console.log(isEvent(10));
