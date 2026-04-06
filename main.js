@@ -45,7 +45,7 @@
 // 5-masala
 
 function areaCircle(R){
-    let S = 3.14 * Math.random( Math.pow(R, 2));
-return S
+    let S = 3.14 * Math.pow(R, 2);
+   return S ;
 }
 console.log(areaCircle(5));
