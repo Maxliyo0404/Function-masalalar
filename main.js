@@ -64,3 +64,14 @@
 // console.log(sumRange(8, 10));
 
 // 7-masal
+
+function calc(A, B, S){
+  if ( S === "-") {
+     return A - B;
+  } else if ( S === "*") {
+     return A * B;
+  }
+  else if ( S === "/") {
+     return B ! A / B;
+  }
+}
