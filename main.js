@@ -30,14 +30,14 @@
 // console.log(sign(10));
 
 // 4-masala
-function numbers(A, B, C){
-   let D = Math.pow(B, 2) - 4 * A * C;
-   if (D > 0) {
-      return("2 hosil bo'lsin");
-   } else if (D === 0){
-      return("1 hosil bo'lsin");
-   } else{
-      return("0 hosil bo'lsin");
-   }
-}
-console.log(numbers(1, -6, 9));
+// function numbers(A, B, C){
+//    let D = Math.pow(B, 2) - 4 * A * C;
+//    if (D > 0) {
+//       return("2 hosil bo'lsin");
+//    } else if (D === 0){
+//       return("1 hosil bo'lsin");
+//    } else{
+//       return("0 hosil bo'lsin");
+//    }
+// }
+// console.log(numbers(1, -6, 9));
