@@ -55,6 +55,12 @@ function sumRange(A, B) {
     if ( A > B ){
     return 0;
     } 
+    let result = 0 ;
+    let i = A;
+    for (let i= A;  i <= B; i ++) {
+        let result += 1;
+        
+    }
    
     
 }
