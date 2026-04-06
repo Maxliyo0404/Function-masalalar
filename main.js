@@ -52,11 +52,9 @@
 
 // 6-masala
 function sumRange(A, B) {
-    if ( A > B ) return 0;
-    let result = 0;
-    let i = A ;
-    if( i <= B){
-    result += i;
-    }
+    if ( A > B ){
+    return 0;
+    } 
+   
     
 }
