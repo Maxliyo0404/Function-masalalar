@@ -57,7 +57,7 @@ function sumRange(A, B) {
     } 
     let result = 0 ;
     for (let i= A;  i <= B; i ++) {
-        let result += i;
+         result += i;
     }
     return result;
 }
