@@ -41,3 +41,6 @@
 //    }
 // }
 // console.log(numbers(1, -6, 9));
+
+// 5-masala
+
