@@ -95,3 +95,7 @@
     
 // }
 // console.log(isEvent(K));
+
+// 9-masala
+
+let 
