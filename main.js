@@ -30,3 +30,6 @@
 // console.log(sign(10));
 
 // 4-masala
+function numbers(A, B, C){
+   let D = Math.pow(B, 2) - 4
+}
