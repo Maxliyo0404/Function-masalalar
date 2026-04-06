@@ -17,15 +17,15 @@
 // console.log(mean(12, 48));
 
 //  3-masala
-function sign(n){
-    if (n < 0) {
-        return("-1 chiqsin");
-    } else if (n > 0) {
-         return("1 chiqsin");
-    } else{
-         return("hech qanday son chiqmasin ");
-    }
+// function sign(n){
+//     if (n < 0) {
+//         return("-1 chiqsin");
+//     } else if (n > 0) {
+//          return("1 chiqsin");
+//     } else{
+//          return("hech qanday son chiqmasin ");
+//     }
     
-}
-console.log(sign(10));
+// }
+// console.log(sign(10));
 
