@@ -49,3 +49,13 @@
 //    return S ;
 // }
 // console.log(areaCircle(5));
+
+// 6-masala
+function sumRange(A, B) {
+    if (A > B) {
+        return("0 qiymatni qaytaradi");
+    } else {
+         return("aks holda boshqa sonni qaytaradi");
+    }
+}
+console.log(sumRange(8, 10));
