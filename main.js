@@ -84,11 +84,13 @@
 // console.log(calc(7, 8, "+"));
 
 // 8-masala
+let K = +prompt("son yozing")
 function isEvent(K){
     if (K % 2 === 0) {
         alert("true");
     } else {
          alert("False");
     }
+    console.log(isEvent);
+    
 }
-console.log(isEvent(10));
