@@ -56,7 +56,7 @@ function sumRange(A, B) {
     let result = 0;
     let i = A ;
     if( i <= B){
-    let yigindi = += i;
+    result += i;
     }
     
 }
