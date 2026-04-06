@@ -5,5 +5,6 @@
  function power(a, n){
   return Math.pow(a, n);
  }                       
- power(3, 5);
+console.log(power(3, 5));
+ 
  
