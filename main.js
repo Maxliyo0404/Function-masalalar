@@ -87,10 +87,11 @@
 let K = +prompt("son yozing")
 function isEvent(K){
     if (K % 2 === 0) {
-        alert("true");
+         return true;
     } else {
-         alert("False");
+          return False;
     }
-    console.log(isEvent);
+    
     
 }
+console.log(isEvent(K));
