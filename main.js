@@ -65,20 +65,20 @@
 
 // 7-masal
 
-function calc(A, B, S){
-  if ( S === "-") {
-     return A - B;
-  } else if ( S === "*") {
-     return A * B;
-  }
-  else if ( S === "/") {
-     return B !== 0 ?  A / B : 0;
-  }
-  else if ( S === "+") {
-     return A + B ;
-  }else{
-    return 0 ;
-  }
-}
-console.log(calc(10, 15, "*"));
-console.log(calc(7, 8, "+"));
+// function calc(A, B, S){
+//   if ( S === "-") {
+//      return A - B;
+//   } else if ( S === "*") {
+//      return A * B;
+//   }
+//   else if ( S === "/") {
+//      return B !== 0 ?  A / B : 0;
+//   }
+//   else if ( S === "+") {
+//      return A + B ;
+//   }else{
+//     return 0 ;
+//   }
+// }
+// console.log(calc(10, 15, "*"));
+// console.log(calc(7, 8, "+"));
