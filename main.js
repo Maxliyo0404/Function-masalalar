@@ -72,6 +72,11 @@ function calc(A, B, S){
      return A * B;
   }
   else if ( S === "/") {
-     return B ! A / B;
+     return B !== 0 ?  A / B : 0;
+  }
+  else if ( S === "+") {
+     return A + B ;
+  }else{
+    return 0 ;
   }
 }
