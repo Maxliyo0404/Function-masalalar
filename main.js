@@ -97,5 +97,12 @@
 // console.log(isEvent(K));
 
 // 9-masala
-
-let 
+  function sort(A, B, C){
+    let kichik = Math.min(A, B, C);
+    
+    let katta = Math.max(A, B, C);
+    let result = (A + B + C) - (katta + kichik);
+     return result;
+    
+}
+console.log(sort.join(10, 5, 8) );
