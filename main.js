@@ -123,14 +123,14 @@
 // console.log(isPower(10, 2));
 
 // 11-masala
-function  isPrime(N){
-if (N < 2){
-    return false;
-}
-for(let i = 2; i <= Math.sqrt(N); i++){
-    if (N % i === 0)
-        return false;
-}
-return true;
-}
-console.log(isPrime(7));
+// function  isPrime(N){
+// if (N < 2){
+//     return false;
+// }
+// for(let i = 2; i <= Math.sqrt(N); i++){
+//     if (N % i === 0)
+//         return false;
+// }
+// return true;
+// }
+// console.log(isPrime(7));
