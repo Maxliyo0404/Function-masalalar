@@ -119,10 +119,5 @@ function isPower(K, N){
         number *= N;
     }
     return number === K;
-    if (condition) {
-        
-    } else {
-        
-    }
 }
-console.log(isPower());
+console.log(isPower(10, 2));
