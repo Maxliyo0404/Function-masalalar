@@ -136,4 +136,4 @@
 // console.log(isPrime(7));
 
 // 12-masala
-13-masala
+// 13-masala
