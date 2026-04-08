@@ -124,5 +124,7 @@
 
 // 11-masala
 function  isPrime(N){
-if (N < 2)
+if (N < 2){
+    return false;
+}
 }
