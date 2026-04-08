@@ -133,4 +133,4 @@
 // }
 // return true;
 // }
-console.log(isPrime(7));
+// console.log(isPrime(7));
