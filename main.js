@@ -106,3 +106,6 @@
     
 // }
 // console.log(sort(10, 5, 8) );
+
+// 10-masala
+
