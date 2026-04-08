@@ -123,3 +123,6 @@
 // console.log(isPower(10, 2));
 
 // 11-masala
+function  isPrime(N){
+
+}
