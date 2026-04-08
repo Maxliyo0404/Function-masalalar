@@ -118,5 +118,6 @@ function isPower(K, N){
     while(number < K){
         number *= N;
     }
-    return
+    return number === K;
 }
+console.log(isPower(81,3));
