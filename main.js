@@ -134,3 +134,5 @@
 // return true;
 // }
 // console.log(isPrime(7));
+
+// 12-masala
