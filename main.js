@@ -109,15 +109,15 @@
 
 // 10-masala
 
-function isPower(K, N){
-    if (K <= 0 || N <= 1)
-        return false;
-    if (K === 1)
-     return true;
-    let number = N;
-    while(number < K){
-        number *= N;
-    }
-    return number === K;
-}
-console.log(isPower(10, 2));
+// function isPower(K, N){
+//     if (K <= 0 || N <= 1)
+//         return false;
+//     if (K === 1)
+//      return true;
+//     let number = N;
+//     while(number < K){
+//         number *= N;
+//     }
+//     return number === K;
+// }
+// console.log(isPower(10, 2));
