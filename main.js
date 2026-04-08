@@ -109,3 +109,6 @@
 
 // 10-masala
 
+function isPower(){
+    const
+}
