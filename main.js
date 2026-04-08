@@ -121,3 +121,5 @@
 //     return number === K;
 // }
 // console.log(isPower(10, 2));
+
+// 11-masala
