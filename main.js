@@ -127,4 +127,5 @@ function  isPrime(N){
 if (N < 2){
     return false;
 }
+for(let i = 2; i<)
 }
