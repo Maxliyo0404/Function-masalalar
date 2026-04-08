@@ -120,4 +120,4 @@ function isPower(K, N){
     }
     return number === K;
 }
-console.log(isPower(81,3));
+console.log(isPower());
