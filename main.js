@@ -131,8 +131,8 @@
 //     if (N % i === 0)
 //         return false;
 // }
-return true;
-}
-console.log(isPrime(7));
+// return true;
+// }
+// console.log(isPrime(7));
 
-12-masala
+// 12-masala
