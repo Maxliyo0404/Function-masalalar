@@ -115,5 +115,8 @@ function isPower(K, N){
     if (K === 1)
      return true;
     const number = N;
-    while(number < K)
+    while(number < K){
+        number *= N;
+    }
+    return
 }
