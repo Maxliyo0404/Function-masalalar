@@ -133,3 +133,4 @@ for(let i = 2; i <= Math.sqrt(N); i++){
 }
 return true;
 }
+console.log(isPrime(7));
