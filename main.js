@@ -109,6 +109,6 @@
 
 // 10-masala
 
-function isPower(){
-    const
+function isPower(K, N){
+    if (K <= 0 ||)
 }
