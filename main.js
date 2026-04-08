@@ -110,5 +110,6 @@
 // 10-masala
 
 function isPower(K, N){
-    if (K <= 0 ||)
+    if (K <= 0 || N <= 1)
+        return false;
 }
